@@ -1,6 +1,6 @@
 # React Accordion
 
-A simple and responsive accordion component built with React for organizing and displaying content in a collapsible manner.
+A simple and responsive accordion component built with React and tailwind for organizing and displaying content in a collapsible manner.
 
 ## Features
 
